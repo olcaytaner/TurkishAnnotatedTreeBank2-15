@@ -1,0 +1,1 @@
+( (S (NP {morphologicalAnalysis=ücret+NOUN+A3PL+PNON+NOM}{metaMorphemes=ücret+lAr}{turkish=Ücretler}{semantics=TUR10-0805890}{namedEntity=NONE}) (NUM {morphologicalAnalysis=0.36+NUM+REAL}{metaMorphemes=0.36}{turkish=0.36}{semantics=TUR10-0000020}{namedEntity=MONEY}) (. {morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{turkish=.}{semantics=TUR10-1081860}))  )

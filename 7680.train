@@ -1,0 +1,1 @@
+( (S (ADJP (NP {morphologicalAnalysis=KOTE+NOUN+PROP+A3SG+PNON+NOM}{turkish=KOTE}{namedEntity=NONE}) (ADJP {morphologicalAnalysis=et+VERB^DB+VERB+PASS+POS^DB+VERB+ABLE+AOR^DB+ADJ+ZERO}{metaMorphemes=et+Hl+yAbil+Hr}{turkish=EDİLEBİLİR}{namedEntity=NONE}))  (: {morphologicalAnalysis=:+PUNC}{metaMorphemes=:}{turkish=:}{namedEntity=NONE}))  )

@@ -1,0 +1,1 @@
+( (S (NP {morphologicalAnalysis=brown+NOUN+PROP+A3SG+PNON+GEN}{metaMorphemes=brown+'nHn}{turkish=Brown'un}{namedEntity=PERSON}) (NP {morphologicalAnalysis=hikâye+NOUN+A3SG+P3SG+NOM}{metaMorphemes=hikâye+sH}{turkish=hikâyesi}{namedEntity=NONE}) (: {morphologicalAnalysis=:+PUNC}{metaMorphemes=:}{turkish=:}{namedEntity=NONE}))  )

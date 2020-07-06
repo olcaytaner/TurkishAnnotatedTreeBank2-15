@@ -1,0 +1,1 @@
+( (S (NP (NUM {morphologicalAnalysis=12.06+NUM+REAL}{metaMorphemes=12.06}{turkish=12.06}{namedEntity=TIME}) (NP {morphologicalAnalysis=a.m+NOUN+A3SG+PNON+NOM}{turkish=a.m}{namedEntity=TIME}))  (. {morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{turkish=.}{namedEntity=NONE}))  )

@@ -1,0 +1,1 @@
+( (S (: {morphologicalAnalysis=--+PUNC}{metaMorphemes=--}{turkish=--}{namedEntity=NONE}) (NP {morphologicalAnalysis=pat+NOUN+A3SG+PNON+NOM}{metaMorphemes=pat}{turkish=Pat}{namedEntity=NONE}) (NP {morphologicalAnalysis=D'Amico+NOUN+PROP+A3SG+PNON+NOM}{turkish=D'Amico}{namedEntity=NONE}) (. {morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{turkish=.}{namedEntity=NONE}))  )

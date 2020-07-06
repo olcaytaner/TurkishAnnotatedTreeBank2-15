@@ -1,0 +1,1 @@
+( (S (NP {morphologicalAnalysis=the+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=the}{turkish=Fiyat}{namedEntity=NONE}) (VP {morphologicalAnalysis=açıkla+VERB^DB+VERB+PASS+NEG+PAST+A3SG}{turkish=açıklanmadı}{namedEntity=NONE}) (. {morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{turkish=.}{namedEntity=NONE}))  )

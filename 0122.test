@@ -1,0 +1,1 @@
+( (S (NP (ADJP {morphologicalAnalysis=yeni+ADJ}{metaMorphemes=yeni}{turkish=YENİ}{semantics=TUR10-0848740}{namedEntity=NONE}) (NP {morphologicalAnalysis=müşteri+NOUN+A3SG+PNON+NOM}{metaMorphemes=müşteri}{turkish=MÜŞTERİ}{semantics=TUR10-0565710}{namedEntity=NONE}))  (: {morphologicalAnalysis=:+PUNC}{metaMorphemes=:}{turkish=:}{semantics=TUR10-0365770}{namedEntity=NONE}))  )

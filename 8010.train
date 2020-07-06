@@ -1,0 +1,1 @@
+( (S (NP (ADJP {morphologicalAnalysis=kısa+ADJ}{metaMorphemes=kısa}{turkish=KISA}{semantics=TUR10-0067090}{namedEntity=NONE}) (NP {morphologicalAnalysis=haber+NOUN+A3PL+PNON+NOM}{metaMorphemes=haber+lAr}{turkish=HABERLER}{semantics=TUR10-0318830}{namedEntity=NONE}))  (: {morphologicalAnalysis=:+PUNC}{metaMorphemes=:}{turkish=:}{semantics=TUR10-0365770}{namedEntity=NONE}))  )

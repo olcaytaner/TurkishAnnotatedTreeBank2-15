@@ -1,0 +1,1 @@
+( (S (NP {morphologicalAnalysis=RICHMOND+NOUN+PROP+A3SG+PNON+NOM}{turkish=RICHMOND}{namedEntity=ORGANIZATION}) (NP {morphologicalAnalysis=istifa+NOUN+A3PL+P3SG+NOM}{metaMorphemes=istifa+lAr+sH}{turkish=İstifaları}{namedEntity=NONE}) (: {morphologicalAnalysis=:+PUNC}{metaMorphemes=:}{turkish=:}{namedEntity=NONE}))  )

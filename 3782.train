@@ -1,0 +1,1 @@
+( (S (NP (ADJP {morphologicalAnalysis=tatlı+ADJ}{metaMorphemes=tatlı}{turkish=TATLI}{semantics=TUR10-0751500}{namedEntity=NONE}) (NP {morphologicalAnalysis=kâr+NOUN+A3PL+PNON+NOM}{metaMorphemes=kâr+lAr}{turkish=KÂRLAR}{semantics=TUR10-0294760}{namedEntity=NONE}))  (: {morphologicalAnalysis=:+PUNC}{metaMorphemes=:}{turkish=:}{semantics=TUR10-0365770}{namedEntity=NONE}))  )

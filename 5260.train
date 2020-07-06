@@ -1,0 +1,1 @@
+( (S (NP {morphologicalAnalysis=temettü+NOUN+A3PL+P3SG+NOM}{metaMorphemes=temettü+lAr+sH}{turkish=Temettüleri}{semantics=TUR10-0613410}{namedEntity=NONE}{propBank=ARG1$TUR10-1242720}) (VP {morphologicalAnalysis=say+VERB+NEG+AOR+COND+A1PL}{metaMorphemes=say+mA+z+ysA+k}{turkish=saymazsak}{semantics=TUR10-1242720}{namedEntity=NONE}{propBank=PREDICATE$TUR10-1242720}))  )
