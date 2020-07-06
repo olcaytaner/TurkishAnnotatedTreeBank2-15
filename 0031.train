@@ -1,1 +1,1 @@
-( (S (ADVP {morphologicalAnalysis=muhtemelen+ADV}{metaMorphemes=muhtemelen}{turkish=Muhtemelen}{semantics=TUR10-0554320}{namedEntity=NONE}) (. {morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{turkish=.}{semantics=TUR10-1081860}{namedEntity=NONE}))  )
+( (ADVP (ADVP {morphologicalAnalysis=muhtemelen+ADV}{metaMorphemes=muhtemelen}{turkish=Muhtemelen}{semantics=TUR10-0554320}{namedEntity=NONE}) (. {morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{turkish=.}{semantics=TUR10-1081860}{namedEntity=NONE}))  )
