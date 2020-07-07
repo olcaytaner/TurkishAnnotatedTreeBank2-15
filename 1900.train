@@ -1,1 +1,1 @@
-( (S (ADJP {morphologicalAnalysis=yerel+ADJ}{metaMorphemes=yerel}{turkish=Yerel}{semantics=TUR10-0850350}{namedEntity=NONE}) (NP {morphologicalAnalysis=yönetim+NOUN+A3SG+PNON+NOM}{metaMorphemes=yönetim}{turkish=Yönetim}{semantics=TUR10-0850350}{namedEntity=NONE}))  )
+( (NP (ADJP {morphologicalAnalysis=yerel+ADJ}{metaMorphemes=yerel}{turkish=Yerel}{semantics=TUR10-0850350}{namedEntity=NONE}) (NP {morphologicalAnalysis=yönetim+NOUN+A3SG+PNON+NOM}{metaMorphemes=yönetim}{turkish=Yönetim}{semantics=TUR10-0850350}{namedEntity=NONE}))  )
