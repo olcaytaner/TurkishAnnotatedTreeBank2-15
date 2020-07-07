@@ -1,1 +1,1 @@
-( (S (NP {morphologicalAnalysis=saul+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=saul}{turkish=Saul}{namedEntity=PERSON}) (NP {morphologicalAnalysis=Resnick+NOUN+PROP+A3SG+PNON+NOM}{turkish=Resnick}{namedEntity=PERSON}))  )
+( (NP (NP {morphologicalAnalysis=saul+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=saul}{turkish=Saul}{namedEntity=PERSON}) (NP {morphologicalAnalysis=Resnick+NOUN+PROP+A3SG+PNON+NOM}{turkish=Resnick}{namedEntity=PERSON}))  )
