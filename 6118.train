@@ -1,1 +1,1 @@
-( (S (NP {morphologicalAnalysis=hayır+NOUN+A3SG+PNON+NOM}{metaMorphemes=hayır}{turkish=Hayır}{semantics=TUR10-0335360}{namedEntity=NONE}) (. {morphologicalAnalysis=?+PUNC}{metaMorphemes=?}{turkish=?}{semantics=TUR10-0703510}{namedEntity=NONE}))  )
+( (S (NOMP {morphologicalAnalysis=hayır+NOUN+A3SG+PNON+NOM}{metaMorphemes=hayır}{turkish=Hayır}{semantics=TUR10-0335360}{namedEntity=NONE}) (. {morphologicalAnalysis=?+PUNC}{metaMorphemes=?}{turkish=?}{semantics=TUR10-0703510}{namedEntity=NONE}))  )

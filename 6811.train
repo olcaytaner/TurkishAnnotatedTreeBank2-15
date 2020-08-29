@@ -1,1 +1,1 @@
-( (S (NP (-XXX- {morphologicalAnalysis=11:54+TIME}{metaMorphemes=11:54}{turkish=11:54}{namedEntity=TIME}) (NP {morphologicalAnalysis=p.m+NOUN+A3SG+PNON+ACC}{turkish=p.m}{namedEntity=TIME}))  (. {morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{turkish=.}{namedEntity=NONE}))  )
+( (S (NP (NUM {morphologicalAnalysis=11:54+TIME}{metaMorphemes=11:54}{turkish=11:54}{namedEntity=TIME}) (NP {morphologicalAnalysis=p.m+NOUN+A3SG+PNON+ACC}{turkish=p.m}{namedEntity=TIME}))  (. {morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{turkish=.}{namedEntity=NONE}))  )
