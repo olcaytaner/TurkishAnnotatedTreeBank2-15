@@ -1,1 +1,1 @@
-( (S (CONJP {morphologicalAnalysis=ve+CONJ}{metaMorphemes=ve}{turkish=ve}{semantics=TUR10-0816400}{namedEntity=NONE}) (NP {morphologicalAnalysis=sair+NOUN+A3SG+PNON+DAT}{metaMorphemes=sair+yA}{turkish=saire}{semantics=TUR10-0203010}{namedEntity=NONE}) (. {morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{turkish=.}{semantics=TUR10-1081860}{namedEntity=NONE}))  )
+( (S (CONJP {turkish=vesaire}{namedEntity=NONE}) (. {morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{turkish=.}{semantics=TUR10-1081860}{namedEntity=NONE}))  )

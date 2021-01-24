@@ -1,1 +1,1 @@
-( (S (DP {morphologicalAnalysis=bir+DET}{metaMorphemes=bir}{turkish=bir}{semantics=TUR10-0105580}{namedEntity=NONE}{propBank=ARG0$TUR10-0585910}) (NP {morphologicalAnalysis=tane+NOUN+A3SG+P3SG+NOM}{metaMorphemes=tane+sH}{turkish=tanesi}{semantics=TUR10-0743390}{namedEntity=NONE}{propBank=ARG0$TUR10-0585910}))  )
+( (S (DP {turkish=Bir}{namedEntity=NONE}{propBank=ARG0$TUR10-0585910}) (NP {morphologicalAnalysis=tane+NOUN+A3SG+P3SG+NOM}{metaMorphemes=tane+sH}{turkish=tanesi}{semantics=TUR10-0743390}{namedEntity=NONE}{propBank=ARG0$TUR10-0585910}))  )
