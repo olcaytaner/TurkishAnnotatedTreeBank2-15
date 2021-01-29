@@ -1,1 +1,1 @@
-( (S (NP {turkish=Amerikan}{namedEntity=ORGANIZATION}) (NP {turkish=Ev}{namedEntity=ORGANIZATION}) (NP {turkish=Ürünleri}{namedEntity=ORGANIZATION}))  )
+( (S (NP {morphologicalAnalysis=amerikan+NOUN+A3SG+PNON+NOM}{metaMorphemes=amerikan}{turkish=Amerikan}{namedEntity=ORGANIZATION}) (NP {morphologicalAnalysis=ev+NOUN+A3SG+PNON+NOM}{metaMorphemes=ev}{turkish=Ev}{namedEntity=ORGANIZATION}) (NP {morphologicalAnalysis=ürün+NOUN+A3PL+P3SG+NOM}{metaMorphemes=ürün+lAr+sH}{turkish=Ürünleri}{namedEntity=ORGANIZATION}))  )
