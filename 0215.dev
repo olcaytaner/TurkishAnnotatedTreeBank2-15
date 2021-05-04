@@ -1,1 +1,1 @@
-( (S (NP {morphologicalAnalysis=hazine+NOUN+A3SG+PNON+NOM}{metaMorphemes=hazine}{turkish=Hazine}{semantics=TUR10-0337240}{namedEntity=NONE}) (NP {morphologicalAnalysis=kağıt+NOUN+A3PL+P3SG+NOM}{metaMorphemes=kağıt+lAr+sH}{turkish=Kağıtları}{semantics=TUR10-0398500}{namedEntity=NONE}))  )
+( (NP (NP {morphologicalAnalysis=hazine+NOUN+A3SG+PNON+NOM}{metaMorphemes=hazine}{turkish=Hazine}{semantics=TUR10-0337240}{namedEntity=NONE}) (NP {morphologicalAnalysis=kağıt+NOUN+A3PL+P3SG+NOM}{metaMorphemes=kağıt+lAr+sH}{turkish=Kağıtları}{semantics=TUR10-0398500}{namedEntity=NONE}))  )
