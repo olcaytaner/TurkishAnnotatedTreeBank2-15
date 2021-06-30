@@ -1,1 +1,1 @@
-( (S (NP {morphologicalAnalysis=vergi+NOUN+A3SG+PNON+NOM}{metaMorphemes=vergi}{turkish=Vergi}{semantics=TUR10-0817570}{namedEntity=NONE}) (NP {morphologicalAnalysis=profesör+NOUN+A3SG+PNON+ACC}{metaMorphemes=profesör+yH}{turkish=profesörü}{semantics=TUR10-0559810}{namedEntity=NONE}))  )
+( (S (NP (NP {morphologicalAnalysis=vergi+NOUN+A3SG+PNON+NOM}{metaMorphemes=vergi}{turkish=Vergi}{semantics=TUR10-0817570}{namedEntity=NONE}) (NP {morphologicalAnalysis=profesör+NOUN+A3SG+PNON+ACC}{metaMorphemes=profesör+yH}{turkish=profesörü}{semantics=TUR10-0559810}{namedEntity=NONE})) ) )
