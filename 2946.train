@@ -1,1 +1,1 @@
-( (S (NP {morphologicalAnalysis=yönet+VERB+POS^DB+NOUN+AGT+A3SG+PNON+NOM}{metaMorphemes=yönet+yHcH}{turkish=yönetici}{semantics=TUR10-0360700}{namedEntity=NONE}) (NP {morphologicalAnalysis=müdür+NOUN+A3SG+PNON+NOM}{metaMorphemes=müdür}{turkish=müdür}{semantics=TUR10-0559930}{namedEntity=NONE}))  )
+( (S (NP (NP {turkish=Yönetici}{namedEntity=NONE}) (NP {turkish=Müdür}{namedEntity=NONE})) ) )
