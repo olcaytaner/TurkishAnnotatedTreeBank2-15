@@ -1,1 +1,1 @@
-( (S (ADJP {morphologicalAnalysis=siyah+ADJ}{metaMorphemes=siyah}{turkish=Siyah}{namedEntity=NONE}) (NP {morphologicalAnalysis=erkek+NOUN+A3PL+PNON+NOM}{metaMorphemes=erkek+lAr}{turkish=Erkekler}{namedEntity=NONE}))  )
+( (S (NP (ADJP {morphologicalAnalysis=siyah+ADJ}{metaMorphemes=siyah}{turkish=Siyah}{namedEntity=NONE}) (NP {morphologicalAnalysis=erkek+NOUN+A3PL+PNON+NOM}{metaMorphemes=erkek+lAr}{turkish=Erkekler}{namedEntity=NONE})) ) )
